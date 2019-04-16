@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Is User In Group">334e223e53b30300b3b6ddeeff7b1245</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="London test">bde80e56db7033001f581780399619e5</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-16 07:41:19</sys_created_on>
+        <sys_id>f60e421adbb033001f5817803996194b</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_action_instance_f60e421adbb033001f5817803996194b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-16 07:42:28</sys_updated_on>
+        <ui_id>47f36964-07ed-46a4-b88d-aa421b120b46</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=f60e421adbb033001f5817803996194b"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>f60e421adbb033001f5817803996194b</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-16 07:41:31</sys_created_on>
+        <sys_id>ad1e8a1adbb033001f581780399619e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-16 07:41:31</sys_updated_on>
+        <value>gfdsf</value>
+        <variable display_value="">b34e223e53b30300b3b6ddeeff7b1254</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>f60e421adbb033001f5817803996194b</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-16 07:41:31</sys_created_on>
+        <sys_id>e91e8a1adbb033001f581780399619e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-16 07:41:31</sys_updated_on>
+        <value>dase</value>
+        <variable display_value="">bf4e223e53b30300b3b6ddeeff7b1247</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>f60e421adbb033001f5817803996194b</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-16 07:41:19</sys_created_on>
+        <sys_id>f60e8a1adbb033001f58178039961936</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-16 07:41:19</sys_updated_on>
+        <value>dase</value>
+        <variable display_value="">550e6efa53b30300b3b6ddeeff7b126e</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>f60e421adbb033001f5817803996194b</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-16 07:41:19</sys_created_on>
+        <sys_id>fe0e8a1adbb033001f58178039961936</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-16 07:41:19</sys_updated_on>
+        <value>gfdsf</value>
+        <variable display_value="">ed0e6efa53b30300b3b6ddeeff7b1286</variable>
+    </sys_variable_value>
+</record_update>
